@@ -1,5 +1,5 @@
 """Constants for the Matrix integration."""
-DOMAIN = "matrix"
+DOMAIN = "matrix-ng"
 
 SERVICE_SEND_MESSAGE = "send_message"
 
